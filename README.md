@@ -1,18 +1,18 @@
-# 📄 Resume Matcher using NLP
+# Resume Matcher using NLP
 
 Automatically match resumes with job descriptions using natural language processing.
 
-## 🚀 Features
+## Features
 - Extract text from resumes and job descriptions
 - Preprocess and compare using TF-IDF + cosine similarity
 - Output match score and relevant keywords
 
-## 📁 Project Structure
+## Project Structure
 - `matcher.py`: Main logic
 - `utils.py`: Text extraction and cleaning functions
 - `sample_resume.txt` / `sample_jd.txt`: Sample files
 
-## 🛠️ Libraries
+##  Libraries
 - `scikit-learn`
 - `nltk` or `spacy`
 
